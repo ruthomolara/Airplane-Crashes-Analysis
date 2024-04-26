@@ -1,11 +1,9 @@
 # Airplane-Crashes-Analysis
-
+Tool Used: PowerBi
+![AC0](https://github.com/ruthomolara/Airplane-Crashes-Analysis/assets/140560092/6af31735-48ca-4b25-ae0e-882469abb1a6)
 ![AC1](https://github.com/ruthomolara/Airplane-Crashes-Analysis/assets/140560092/f47764e2-51ff-4bb7-9b3e-f7d92160402f)
 ![AC2](https://github.com/ruthomolara/Airplane-Crashes-Analysis/assets/140560092/0876f0e6-d577-4bfd-914b-6c8c4bba46a3)
-
 ![AC3](https://github.com/ruthomolara/Airplane-Crashes-Analysis/assets/140560092/713a23f1-b52d-4894-bab2-12d1c4ae69ac)
-
-
 ![AC4](https://github.com/ruthomolara/Airplane-Crashes-Analysis/assets/140560092/2cbbbd73-4b95-4531-a1bc-42bc6fb40c11)
 
 The Airplane Crashes Analysis delve into a comprehensive data spanning from 1980 to 2023, focusing on airplane crashes and fatalities. The objective is to leverage data-driven insights to enhance aviation safety and mitigate risks with the aim of exploring temporal trends, geospatial patterns, operator performance, aircraft analysis, fatality trends, and route analysis to provide valuable recommendations for improving aviation safety worldwide.
